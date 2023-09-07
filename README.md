@@ -1,5 +1,6 @@
-Hello! 👋
-
-<a href="https://www.linkedin.com/in/amer-yono/" target="_blank"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=junioryono&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- 👋 Hi, I’m Junior Yono
+- 👀 I’m interested in embedded systems but also love to work on full-stack web applications.
+- 🌱 I’m the Founder and CEO of LeagueTracker.
+- 🎓 I have a bachelor's degree in Software Engineering from CSUSM.
+- 🎓 I'm currently pursuing my master's degree in Computer Engineering with a focus on embedded systems from SDSU. 
+- 💞️ Reach out to me if you would like to collaborate on any projects!
